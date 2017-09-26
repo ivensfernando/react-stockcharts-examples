@@ -54,3 +54,5 @@ d3.tsv("docs/data/MSFT.tsv", (err, data) => {
 		ReactDOM.render(<Chart data={data} type="svg"/>, document.getElementById("chart"));
 	}, 1000);*/
 });
+
+/*q esso*/
